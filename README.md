@@ -1,10 +1,16 @@
 <h1 align="center">Hey, I'm Arnav Seth 👋</h1>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Cool+Stuff;Always+Learning" />
+  <a href="https://realmz.io">
+    <img src="https://img.shields.io/badge/🔥%20PLAY%20REALMZ%20NOW-FF0000?style=for-the-badge&logo=fire&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Clean+Modern+Apps;React+%7C+JS+%7C+HTML+%7CCSS;Always+Learning+New+Tech;Turning+Ideas+Into+Reality" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnavseth12E&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -49,6 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavseth12&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
