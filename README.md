@@ -25,6 +25,11 @@
 
 ---
 
+## 🏆 Goals
+
+- 🚀 Become a full stack developer  
+- 🎮 Grow Realmz.io player base  
+- 💼 Land my first dev opportunity  
 ## 🛠️ Tech Stack
 
 ### Currently Learning:
@@ -56,14 +61,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavseth12&layout=compact&theme=tokyonight" />
 </p>
 
+## 🚀 Featured Projects
+
+### 🎮 Realmz.io
+> ⚔️ 2D PvP platformer where you fight real players and upgrade weapons.
+
+- 🔗 https://realmz.io
+- 🛠️ JavaScript, HTML, CSS, PHTHON and more
+- ⭐ What I did: (ex: built combat system / UI / mechanics)
 
 ---
 
-## 📚 Learning Journey
+### 🧠 To-Do App
+> Clean, modern task manager with local storage.
 
-- 🔥 Visit streak: 1  
-- 👏 Completed: 6  
-- ⏳ Learning: 4  
+- 🔗https://arnavseth12.github.io/to-do-list
+- 🛠️ JavaScript, HTML, CSS
 
 ---
 
