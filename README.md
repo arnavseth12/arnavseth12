@@ -1,5 +1,10 @@
 <h1 align="center">Hey, I'm Arnav Seth 👋</h1>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Cool+Stuff;Always+Learning" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnavseth12E&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -57,8 +62,8 @@
 
 ## 🌐 Socials
 
-- 💻 Portfolio: https://your-site.com  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
+- 💻 Portfolio: arnavcodes.dev
+- 🐙 GitHub: https://github.com/arnavseth12
 
 ---
 
