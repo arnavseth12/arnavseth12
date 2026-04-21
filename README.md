@@ -68,7 +68,7 @@
 
 - 🔗 https://realmz.io
 - 🛠️ JavaScript, HTML, CSS, PHTHON and more
-- ⭐ What I did: (ex: built combat system / UI / mechanics)
+
 
 ---
 
@@ -82,7 +82,7 @@
 
 ## 🌐 Socials
 
-- 💻 Portfolio: arnavcodes.dev
+- 💻 Portfolio: https://arnavseth12.github.io/My-porfolio
 - 🐙 GitHub: https://github.com/arnavseth12
 
 ---
